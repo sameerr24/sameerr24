@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning and advancing my skills in **Data Structures and Algorithms and CSS tailwind framework for Frontend Development**
 
-- 📫 How to reach me **skhan_be23@thapar.edu**
+- 📫 Reach me out at **skhan_be23@thapar.edu**
 
 - ⚡ Fun fact **I am a verified Spotify artist with over 10 Million views across streaming platfroms like Spotify and Apple Music 🎵 as well as a state level Basketball Athlete 🏀**
 
