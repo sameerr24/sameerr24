@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sameeer Khan</h1>
 <h3 align="center">A passionate frontend developer and DSA enthusiast from India</h3>
 
-<img align=“right” alt="codingGif” width="400" src="[h![image](https://github.com/user-attachments/assets/e62e197f-4ffd-4983-b3d1-9c84bc93ab85)](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
-”>
+![image](https://github.com/user-attachments/assets/e62e197f-4ffd-4983-b3d1-9c84bc93ab85)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameerr24&label=Profile%20views&color=0e75b6&style=flat" alt="sameerr24" /> </p>
 
